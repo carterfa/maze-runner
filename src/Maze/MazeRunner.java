@@ -6,7 +6,7 @@ public class MazeRunner {
 
     public static Scanner input = new Scanner(System.in);
     public static Maze maze = new Maze();
-    public static int limit = 60;
+    public static int limit = 100;
     public static int moveCount = 0;
 
     public static void intro(){
